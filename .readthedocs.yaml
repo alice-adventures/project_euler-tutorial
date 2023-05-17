@@ -5,9 +5,12 @@ build:
   tools:
     python: "3.10"
 
-sphinx:
-  configuration: source/conf.py
-  fail_on_warning: true
+# sphinx:
+#   configuration: source/conf.py
+#   fail_on_warning: true
+
+mkdocs:
+  configuration: mkdocs.yml
 
 python:
   install:
