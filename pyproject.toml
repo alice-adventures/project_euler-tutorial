@@ -1,4 +1,4 @@
 [project]
 name = "lumache"
-authors = [{ name = "Graziella", email = "graziella@lumache" }]
+authors = [{ name = "Graziella", email = "graziella@lumache.com" }]
 dynamic = ["version", "description"]
